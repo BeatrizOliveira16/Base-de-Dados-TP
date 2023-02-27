@@ -1,4 +1,4 @@
-<h2 align="center"> Escola de Futebol </p>
+<h2 align="center"> Escola de Futebol </h2>
 
 <p> Modelação e implementação em SQL e em MongoDB de uma base de dados sobre a gestão de uma Escola de Futebol </p>
 
